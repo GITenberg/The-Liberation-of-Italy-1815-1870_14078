@@ -1,0 +1,28 @@
+_repo: The-Liberation-of-Italy-1815-1870_14078
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martinengo-Cesaresco, Evelyn Lilian Hazeldine Carrington, contessa
+    alias: Carrington, Evelyn Lilian Hazeldine
+    birthdate: 1852
+    deathdate: 1931
+    gutenberg_agent_id: '4440'
+    url: http://www.gutenberg.org/2009/agents/4440
+description: ''
+gutenberg_issued: '2004-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14078'
+  lccn: 04018276
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- History -- 1815-1870'
+title: The Liberation of Italy, 1815-1870
+url: http://www.gutenberg.org/ebooks/14078
